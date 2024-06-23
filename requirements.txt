@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain_community
+scikit-learn
+numpy
+PyPDF2
+transformers
+torch
+sentencepiece
+python-dotenv
+ipykernel
